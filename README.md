@@ -4,5 +4,5 @@
 ## Examples
 ### Training base model
 ```
-python3 main_no_KD --model BPR --dim 20 --num_ns 5 --dataset amazon_2
+python main.py --model BPR --dim 20 --num_ns 5 --dataset amazon_2
 ```
